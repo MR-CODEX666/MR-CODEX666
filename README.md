@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://github.com/MR-NULL666"><img title="YouTube" src="https://img.shields.io/badge/MR.-NULL666-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/channel/UCG4Lop1oQ9dsJ0XsO2NxHYA"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MR.NULL-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://youtube.com/channel/UCG4Lop1oQ9dsJ0XsO2NxHYA"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MR.NULL666-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
