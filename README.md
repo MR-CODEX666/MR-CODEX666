@@ -9,7 +9,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
   
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href="https://github.com/MR.NULL666"><img title="MR.-NULL666" src="https://github-readme-stats.vercel.app/api?username=MR-NULL666&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/CODEX.666"><img title="MR.-NULL666" src="https://github-readme-stats.vercel.app/api?username=MR-NULL666&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 <p align="center">
