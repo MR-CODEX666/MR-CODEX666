@@ -18,6 +18,6 @@
 </p>
 
 <p align="center">
-<a href="https://telegram.me/mr_null_666"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://www.instagram.com/mr.null666/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram"></a>
+<a href="https://t.me/codex_666"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="CODEX"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram"></a>
 <p align="center">
