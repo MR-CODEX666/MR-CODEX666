@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/MR-CODEX666"><img title="YouTube" src="https://img.shields.io/badge/MR.-NULL666-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MR-CODEX666"><img title="YouTube" src="https://img.shields.io/badge/MR.-CODEX666-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCG4Lop1oQ9dsJ0XsO2NxHYA"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MR.CODDEX666-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
